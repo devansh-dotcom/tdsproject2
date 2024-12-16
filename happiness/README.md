@@ -1,8 +1,14 @@
-Average Rating: The books have an average rating between 2.47 and 4.82, with a mean of 4.00.
-Ratings Count: The number of ratings for books varies from a minimum of 2,716 to a maximum of 4,780,653.
-Publication Year: The books span a wide range of publication years, from 1750 (likely erroneous) to 2017, with a mean of 1982.
+Numeric Summary:
+
+Life Ladder (Happiness Score): The scores range from 1.28 to 8.02, with a mean of 5.48 and a standard deviation of 1.13.
+Log GDP per Capita: Ranges from 5.53 to 11.68, with a mean of 9.40.
+Social Support: The values range from 0.23 to 0.99, with a mean of 0.81.
 Missing Data:
-ISBN: Missing for 700 books.
-Original Title: Missing for 585 books.
-Language Code: Missing for 1,084 books.
-Original Publication Year: 21 books have missing publication years.
+
+Log GDP per capita: 28 missing entries.
+Social support: 13 missing entries.
+Healthy life expectancy at birth: 63 missing entries.
+Generosity: 81 missing entries.
+Perceptions of corruption: 125 missing entries.
+Positive affect: 24 missing entries.
+Negative affect: 16 missing entries.
